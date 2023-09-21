@@ -1,0 +1,58 @@
+class="podcast-image"
+        />
+        <div class="podcast-text-container">
+          <h1 class="podcast-name">Patrick Bet David</h1>
+          <p class="podcast-description">
+            Are you an entrepreneur or have dreams of mental...
+          </p>
+          <p class="podcast-duration">10 min</p>
+        </div>
+      </div>
+      <div class="podcast-episode-container d-flex flex-row">
+        <img
+          src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/on-purpose-img.png"
+          class="podcast-image"
+        />
+        <div class="podcast-text-container">
+          <h1 class="podcast-name">5 Techniques to cope</h1>
+          <p class="podcast-description">
+            Does anxiety looms around every corner of your...
+          </p>
+          <p class="podcast-duration">4 min</p>
+        </div>
+      </div>
+      <div class="podcast-episode-container d-flex flex-row">
+        <img
+          src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/on-purpose-img.png"
+          class="podcast-image"
+        />
+        <div class="podcast-text-container">
+          <h1 class="podcast-name">Radhanath Swami ON</h1>
+          <p class="podcast-description">
+            World-renowned spritual leader and philanthropist...
+          </p>
+          <p class="podcast-duration">12 min</p>
+        </div>
+      </div>
+      <div class="podcast-episode-container d-flex flex-row">
+        <img
+          src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/on-purpose-img.png"
+          class="podcast-image"
+        />
+        <div class="podcast-text-container">
+          <h1 class="podcast-name">3 Ways to let go</h1>
+          <p class="podcast-description">
+            Do the opinions of others veer you from the core...
+          </p>
+          <p class="podcast-duration">13 min</p>
+        </div>
+      </div>
+      <div class="button-container d-flex flex-row justify-content-end">
+        <button class="button" onclick="display('sectionHomePage')">
+          Back
+        </button>
+      </div>
+    </div>
+    <script type="text/javascript" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/js/ccbp-ui-kit.js"></script>
+  </body>
+</html>
